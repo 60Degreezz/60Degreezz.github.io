@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test post"
-date:   2022-09-26 00:00:00
+date:   2022-09-25 00:00:00
 categories: Test
 ---
 
